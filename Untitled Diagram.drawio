@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T04:29:26.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" version="13.6.2" etag="ot83oQcI8I04zow4fqTi" type="github"><diagram id="igNWJ1MtIeglsYcZQ_tO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-16T04:40:27.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" etag="ynmgjVSiA0aJ53KJKLwn" version="13.6.2" type="github">
+  <diagram id="igNWJ1MtIeglsYcZQ_tO" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-1" value="Start&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-3" value="Planning&amp;nbsp;&lt;br&gt;Min 2 days&amp;nbsp;&lt;br&gt;Max 5 days&amp;nbsp;&lt;br&gt;Most likely 3 days&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-7" value="Vendor&amp;nbsp;&lt;br&gt;Min 8 days&amp;nbsp;&lt;br&gt;Max 16 days&amp;nbsp;&lt;br&gt;Most likely 10 days&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-8" value="Internal Team&amp;nbsp;&lt;br&gt;Min 7 days&amp;nbsp;&lt;br&gt;Max 13 days&amp;nbsp;&lt;br&gt;Most likely 9 days&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="320" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="5gxrcO7HR_u0sJTVlQ68-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-16" value="Training &amp;amp; Roll out&amp;nbsp;&lt;br&gt;2 days -- 75%&lt;br&gt;3 days --25 %" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-18" value="Finish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5gxrcO7HR_u0sJTVlQ68-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="280" as="sourcePoint" />
+            <mxPoint x="720" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
